@@ -18,8 +18,11 @@
 }
 
 @media (max-width:768px) {
-  .more-inf-wrapper { text-align: center;
+
+  .more-inf-wrapper { 
+    text-align: center;
   }
+  
 }
 .todo {
   display: block;
