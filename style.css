@@ -53,7 +53,7 @@ li {
   list-style: none;
 }
 
-input,button{
+input,button {
   outline: none;
 }
 
@@ -136,10 +136,10 @@ li > label {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
-  width: 226px;
 }
 
-li > input[type="text"] {
+li > input[type="text"],
+li > label {
   width: 226px;
 }
 
